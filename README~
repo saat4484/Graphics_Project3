@@ -1,0 +1,22 @@
+hw1: Lorenz Attractor
+
+Willem A. (Vlakkies) Schreuder
+CSCI4229/5229 Fall 2014
+
+Key bindings
+  i      Zoom in
+  o      Zoom out
+  s      Increase the value of parameter s
+  d      Decrease the value of parameter s
+  arrows Change view angle
+  0      Reset view angle
+  ESC    Exit
+
+
+
+
+This took about 3 hours including the time it took to re-watch parts of Thursdays lecture.
+
+
+
+
